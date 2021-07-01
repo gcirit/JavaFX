@@ -3,12 +3,14 @@
 
 # Install Java
 
-Follows the steps explained in the link below. https://openjfx.io/openjfx-docs/#install-java
+Follows the steps explained in the link below. 
+  https://openjfx.io/openjfx-docs/#install-java
 
 
 # Install JavaFX
 
-Installation guide for modular/non-modular, manual, IntelliJ, Eclipse and more are described in the link below. https://openjfx.io/openjfx-docs/#install-javafx
+Installation guide for modular/non-modular, manual, IntelliJ, Eclipse and more are described in the link below.
+  https://openjfx.io/openjfx-docs/#install-javafx
 
 
 # Set the Permanent Path
